@@ -77,7 +77,9 @@ header img {
     clear: both;
     display: block;
 }
-
+ul li {
+	color: #560591;
+}
 /* the styles for the main content */
 main {
 	clear: left;
