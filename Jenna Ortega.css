@@ -20,7 +20,7 @@ a:focus, a:hover {
 /* the styles for the header */
 header {
 	padding: 1.5em 0 2em 0;
-	border-bottom: 3px solid #931420;
+	border-bottom: 3px solid #560591;
 	  background-image: linear-gradient(to right, indigo, white);
 }
 header h2 {
@@ -59,7 +59,7 @@ header img {
     font-weight: bold;
 }
 #nav_menu a.current {
-	color: yellow;
+	color: grey;
 }
 #nav_menu ul ul {
     display: none;
